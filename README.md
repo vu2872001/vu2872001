@@ -52,19 +52,19 @@ Here are some ideas to get you started:
 
 ---
 
-<h2>🔥 GitHub Stats 🔥</h2>
+<h3> 🔥 GitHub Stats 🔥 </h3>
 ![](https://github-readme-stats.vercel.app/api?username=vu2872001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vu2872001&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vu2872001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### ✍️Random Dev Quote
+<h3> ✍️Random Dev Quote <h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 😂Random Dev Meme
+<h3> 😂Random Dev Meme </h3>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
