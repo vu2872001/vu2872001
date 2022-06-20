@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to become a Frontend Developer and maybe Fullstack Developer in the future
 - 📫 How to reach me: hngvu287@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm an Extrovert, which means i love to communicate with others. My hobby are just laying down eating snacks, watching TV and a well-sleep after a hard-day.
+- ⚡ Fun fact: I'm an Extrovert, which means i love to communicate with others. My hobby are just laying down eating snacks, watching TV and in my opinion nothing is better than a well-sleep after a hard-day.
 
 ---
 
