@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ---
 
 <h3> 🧰 Toolbox 🛠 </h3>
-<br>
 <span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="25px"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height="25px"/></span>
@@ -53,18 +52,17 @@ Here are some ideas to get you started:
 
 ---
 
-# 📊GitHub Stats :
+<h2>🔥 GitHub Stats 🔥</h2>
 ![](https://github-readme-stats.vercel.app/api?username=vu2872001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vu2872001&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vu2872001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
---
+---
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
