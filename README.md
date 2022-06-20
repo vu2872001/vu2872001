@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> ✍️Random Dev Quote <h3>
+<h3> ✍️ Random Dev Quote ✍️ <h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 ---
 
-<h3> 😂Random Dev Meme </h3>
+<h3> 😂 Random Dev Meme 😂 </h3>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- --- -->
