@@ -47,7 +47,10 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
+
+
 <br>
+
 ---
 
 # 📊GitHub Stats :
@@ -55,10 +58,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vu2872001&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vu2872001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=vu2872001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
