@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 &nbsp;
 <span><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height="25px"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" height="25px"/></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" height="25px"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" height="25px"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white" height="25px"/></span>
 &nbsp;
