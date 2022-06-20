@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <h3> 🔥 GitHub Stats 🔥 </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=vu2872001&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vu2872001&theme=radical&hide_border=false"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu2872001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vu2872001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> -->
 
 ---
 
@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vu2872001&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=vu2872001&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
