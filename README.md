@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-<img src="https://media.tenor.com/xPBtcCJ246wAAAAM/molorant-wibugus.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2o4enQwbmgwOTh0ZGh2eWZjZG1kZWVvbGJsbm4zeW4wc3FqOHMxOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toXKzaJP3WIgM/giphy.gif">
 </div>
 
 ---
@@ -61,12 +61,5 @@ Here are some ideas to get you started:
 
 <h3> ✍️ Random Dev Quote ✍️ <h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
----
-
-<h3> 😂 Random Dev Meme 😂 </h3>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="512px"/>
-
-[![](https://visitcount.itsvg.in/api?id=vu2872001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
